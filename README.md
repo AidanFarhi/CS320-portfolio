@@ -14,7 +14,7 @@ Although I did not implement that in this case, it definetly is a practice I bel
 In this case, the user needs were very clearly spelled out in the requirements document. I translated the requirements
 into a set of classes and then validated the functionality using JUnit. Realistically, requirements are not
 that clearly defined. When that is the case, I do my best to ask as many questions as possible during the
-intake process and ask for during the development cycle.
+intake process and ask for feedback during the development cycle.
 
 - How do I approach designing software?
 
